@@ -133,9 +133,7 @@ The trash can on the right is to delete single code blocks from the canvas. The 
 <br />
 <br />
 
-## :movie_camera: Demo video
 
-Here is a link to our demo video: https://youtu.be/aWcq6sd0ovw
 
 <br />
 <br />

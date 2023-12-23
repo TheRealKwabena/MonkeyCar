@@ -1,4 +1,4 @@
-# Group 06 - MONKEyCAR <img width="250" alt="Screenshot_2022-04-01_at_11 53 16-removebg-preview" src="https://user-images.githubusercontent.com/78755376/170821569-f95d97af-0c9d-4e4b-817e-6c92abe7243c.png" align="right">
+# MONKEyCAR <img width="250" alt="Screenshot_2022-04-01_at_11 53 16-removebg-preview" src="https://user-images.githubusercontent.com/78755376/170821569-f95d97af-0c9d-4e4b-817e-6c92abe7243c.png" align="right">
 
 <br />
 <br />
@@ -6,7 +6,7 @@
 ## Project Desription
 ### :bulb: What did we make?
 
-Our goal was to create a web-based application similar to [Scratch](https://scratch.mit.edu) that teaches children how to code. However, unlike Scratch, MONKEyCAR (the name of our application) will work with the real smart-car, which will perform the actions that the child “programmed” in our app, such as "Move 10 steps forward".
+The goal was to create a web-based application similar to [Scratch](https://scratch.mit.edu) that teaches children how to code. However, unlike Scratch, MONKEyCAR (the name of my application) will work with the real smart-car, which will perform the actions that the child “programmed” in our app, such as "Move 10 steps forward".
 
 <img width="415" alt="Screenshot 2022-05-25 at 19 36 09" src="https://user-images.githubusercontent.com/78755376/170335429-d73501ee-811c-49df-b4c6-d1490704640a.png" align="left">
 <img width="315" alt="Screenshot 2022-05-25 at 19 39 39 copy" src="https://user-images.githubusercontent.com/78755376/170335858-2728d6b4-0395-4e51-bcf2-ef1171468f89.png">
@@ -15,29 +15,11 @@ Our goal was to create a web-based application similar to [Scratch](https://scra
 
 ### :yellow_heart: Our purpose
 
-Ultimately, our hopes in making this program was to be able to **teach and inspire kids to code in a more fun and interactive way!** Technology is being integrated more and more into our day to day lives, with a larger number of people wanting to learn programming. However, for young children, programming might be a bit intimidating at first, and our goal is to create a user-friendly, supportive platform that will help guide them and realise that programming can be a lot of fun.
+Ultimately, the main goal  was to **teach and inspire kids to code in a more fun and interactive way!** Technology is being integrated more and more into our day to day lives, with a larger number of people wanting to learn programming. However, for young children, programming might be a bit intimidating at first, and our goal is to create a user-friendly, supportive platform that will help guide them and realise that programming can be a lot of fun.
 
 <br />
 
-<img width="540" alt="Screenshot 2022-05-25 at 19 36 09" src="https://user-images.githubusercontent.com/78755376/170877841-d3ff9aeb-be12-4ba1-87d8-0b90d6c80383.JPG" align="right">
 
-### :monkey: Who are we?
-
-**M** ichael Larsson: [BrakeLightBoy](github.com/BrakeLightBoy)
-
-**O** scar Reína Gustavson: [gusreinaos](github.com/gusreinaos)
-
-**N** ia Georgieva: [gusniage02](github.com/gusniage02)
-
-**K** wabena Asare Boström: [TheRealKwabena](github.com/TheRealKwabena)
-
-**E** lisa Ahlbäck Norris: [elisaahlback](github.com/elisaahlback)
-
-**y**
-
-**CAR** lotta Hillger: [carlottahillger](github.com/carlottahillger)
-
-<br />
 
 ### :question: How did we plan to do it?
 
